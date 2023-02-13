@@ -1,0 +1,6 @@
+id=5mark3-shared-library
+name=SONY Shared library
+version=v1
+versionCode=1
+author=rca
+description=Fix missing shared library error(com.sony.device).
